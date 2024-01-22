@@ -46,6 +46,7 @@ public class PriceDiscount {
         // Calculate total discount based on various conditions
         int[] discounts = { discountTiered50, discountBulk10, discountBulk5, discountFlat10 };
 
+        //Choosing most benefacial discount
         int maxDiscountIndex = 0;
         for (int i = 1; i < discounts.length; i++) {
             if (discounts[i] > discounts[maxDiscountIndex]) {
