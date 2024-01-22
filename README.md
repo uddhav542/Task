@@ -1,5 +1,5 @@
 # Task
-# This is the task given by Zennode 
+### This is the task given by Zennode 
 
 This repo consist 3 files. 
 PriceDiscount.java file contains java program to achieve desired outcome.
@@ -9,7 +9,7 @@ PriceDiscountOOP.java file contains program implemented using oop concepts in of
 To Run this program, open this files in your IDE(preferly VScode)
 And make sure your IDE has program runner for both java and pyhton. Open file in IDE and run the programs.
 
-# Sample Input and Output
+### Sample Input and Output
 
 Enter Quantity of A: 12
 Is A Wrapped as gift? (yes/no) - yes
