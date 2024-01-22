@@ -1,5 +1,5 @@
 # Task
-### This is the task given by Zennode 
+### This is an implementation of task given by Zennode 
 
 This repo consist 3 files. 
 PriceDiscount.java file contains java program to achieve desired outcome.
